@@ -1,0 +1,10 @@
+table{
+    padding-left: 50px;
+}
+thead{
+    padding-left: 10px;
+}
+tbody{
+    margin-left: 10px;
+    background-color: rgb(84, 192, 45);
+}
